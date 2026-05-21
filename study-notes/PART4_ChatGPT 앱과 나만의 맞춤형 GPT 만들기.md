@@ -1,9 +1,5 @@
 # PART 4. ChatGPT 앱과 나만의 맞춤형 GPT 만들기
 
-> 강환수 교수 | 생성형 AI 시대의 LLM 활용서 | 동양미래대학교
-
----
-
 ## 9. ChatGPT 앱 활용
 
 ### ChatGPT 데스크탑 앱이란?
