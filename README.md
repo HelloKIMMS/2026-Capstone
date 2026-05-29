@@ -2,6 +2,12 @@
 인공지능캡스톤디자인 프로젝트
 (2025-LLM 참고)
 
+## 팀별 저장소
+
+| 팀 | 팀장 | 팀 깃허브 저장소 |
+|----|------|------------------|
+| F5 | 조예성 | [Capstone-F5/CapstoneProject](https://github.com/Capstone-F5/CapstoneProject) |
+
 ## 개인맞춤설정 [맞춤형지침]
 
 ```text
