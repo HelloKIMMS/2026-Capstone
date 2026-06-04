@@ -3,18 +3,16 @@
 (2025-LLM 참고)
 
 ## 📅 프로젝트 개요
-### 주제: 물리적 접근성 극복을 위한 LLM 기반 지능형 양방향 배리어프리 키오스크
-### 기간: 2026.03.03 ~ 2026.09.xx
-### 조직: 동양미래대학교 인공지능소프트웨어학과 3-QA (팀명: F5)
-### GitHub: https://github.com/Capstone-F5
-### Notion: Notion(F5_캡스톤디자인)
-### 회의록(Notion): 회의록 모음
 
-## 팀 저장소
+- **주제**: 물리적 접근성 극복을 위한 LLM 기반 지능형 양방향 배리어프리 키오스크
+- **기간**: 2026.03.03 ~ 2026.09.xx
+- **조직**: 동양미래대학교 인공지능소프트웨어학과 3-QA (팀명: F5)
+- **나의 역할**: UI/UX 디자인, 아이디어 기획
+- **GitHub**: [https://github.com/Capstone-F5](https://github.com/Capstone-F5)
+- **Notion**: [Notion(F5_캡스톤디자인)](https://jewel-flock-61a.notion.site/5081121f427f8269b90f81736fb291f6?pvs=73)
+- **회의록(Notion)**: [회의록 모음](https://app.notion.com/p/e6a1121f427f8390a48e0100cc786def?source=copy_link)
 
-| 팀 | 팀장 | 팀 깃허브 저장소 |
-|----|------|------------------|
-| F5 | 조예성 | [Capstone-F5/CapstoneProject](https://github.com/Capstone-F5/CapstoneProject) |
+---
 
 ## 개인맞춤설정 [맞춤형지침]
 
