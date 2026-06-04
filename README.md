@@ -12,7 +12,6 @@
 - **Notion**: [Notion(F5_캡스톤디자인)](https://jewel-flock-61a.notion.site/5081121f427f8269b90f81736fb291f6?pvs=73)
 - **회의록(Notion)**: [회의록 모음](https://app.notion.com/p/e6a1121f427f8390a48e0100cc786def?source=copy_link)
 
----
 
 ## 개인맞춤설정 [맞춤형지침]
 
